@@ -1,0 +1,28 @@
+export const GET_ALL_BLOGS_SUCCESS = 'GET_ALL_BLOGS_SUCCESS';
+export const GET_ALL_BLOGS_FAIL = 'GET_ALL_BLOGS_FAIL';
+
+export const REMOVE_ALERT = 'REMOVE_ALERT';
+export const SET_ALERT = 'SET_ALERT';
+
+export const LOGIN_SUCCESS = 'LOGIN_SUCCESS';
+export const LOGIN_FAIL = 'LOGIN_FAIL';
+
+export const USER_LOADED = 'USER_LOADED';
+export const AUTH_ERROR = 'AUTH_ERROR';
+
+export const LOGOUT = 'LOGOUT';
+
+export const GET_BLOGS_SUCCESS = 'GET_BLOGS_SUCCESS';
+export const GET_BLOGS_FAIL = 'GET_BLOGS_FAIL';
+
+export const GET_BLOG_SUCCESS = 'GET_BLOG_SUCCESS';
+export const GET_BLOG_FAIL = 'GET_BLOG_FAIL';
+
+export const ADD_BLOG_SUCCESS = 'ADD_BLOG_SUCCESS';
+export const ADD_BLOG_FAIL = 'ADD_BLOG_FAIL';
+
+export const DELETE_BLOG_SUCCESS = 'DELETE_BLOG_SUCCESS';
+export const DELETE_BLOG_FAIL = 'DELETE_BLOG_FAIL';
+
+export const EDIT_BLOG_SUCCESS = 'EDIT_BLOG_SUCCESS';
+export const EDIT_BLOG_FAIL = 'EDIT_BLOG_FAIL';
